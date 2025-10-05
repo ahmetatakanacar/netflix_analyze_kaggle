@@ -9,6 +9,7 @@ Dataset: https://www.kaggle.com/datasets/zubairamuti/netflix-movies-and-tv-shows
 - **Top 10 Countries** that produce the most content
 - **Ratings Distribution** (G, PG, R, TV-MA, etc.)
 - **Top 10 Directors** with the most titles
+---
 Tools Used
 - Python  
 - Pandas    
