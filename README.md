@@ -15,4 +15,9 @@ Tools Used
 - Pandas    
 - Matplotlib  
 - Seaborn  
-
+---
+ratings.png
+top_15_genres.png
+top_10_countries.png
+movie_and_tvshow.png
+top_10_directors.png
