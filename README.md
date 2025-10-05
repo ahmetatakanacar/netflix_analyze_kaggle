@@ -19,8 +19,8 @@ Tools Used
 Visualizations
 | Visualization | Description |
 |----------------|-------------|
-| ![Movies vs TV Shows](movie_and_tvshow.png) | Ratio of Movies vs TV Shows |
-| ![Top 15 Genres](top_15_genres.png) | Top 15 most popular genres |
-| ![Top 10 Countries](top_10_countries.png) | Top 10 countries producing the most content |
-| ![Ratings Distribution](ratings.png) | Ratings distribution (G, PG, R, TV-MA, etc.) |
-| ![Top 10 Directors](top_10_directors.png) | Directors with the most titles |
+| ![Movies vs TV Shows](figures/movie_and_tvshow.png) | Ratio of Movies vs TV Shows |
+| ![Top 15 Genres](figures/top_15_genres.png) | Top 15 most popular genres |
+| ![Top 10 Countries](figures/top_10_countries.png) | Top 10 countries producing the most content |
+| ![Ratings Distribution](figures/ratings.png) | Ratings distribution (G, PG, R, TV-MA, etc.) |
+| ![Top 10 Directors](figures/top_10_directors.png) | Directors with the most titles |
