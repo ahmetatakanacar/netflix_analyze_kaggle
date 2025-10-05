@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 import seaborn as sns
 
-data = pd.read_csv(r"C:\Users\ACAR\Desktop\Netflix Data Analyze\netflix_titles.csv")
+data = pd.read_csv("netflix_titles.csv")
 
 data_type = data["type"].value_counts()
 sns.set_style("whitegrid")
@@ -53,6 +53,7 @@ plt.title("Top 10 Directors")
 plt.xlabel("Directors")
 plt.xticks(rotation = 25)
 plt.show()
+
 
 
 
